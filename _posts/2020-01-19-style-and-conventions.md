@@ -11,5 +11,10 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 ...and...
 
 {% include info.html text="You can include info boxes" %}
+##### LATEX SUPPORT
+$\latex$ can be used as well. 
+$$
+\sum_n (x)
+$$
 ##### THEME
 ##### CATEGORIES and TAGS
