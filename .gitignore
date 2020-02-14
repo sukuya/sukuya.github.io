@@ -1,1 +1,4 @@
 **/.DS_Store  #Apple DS Store Files
+.*
+!.gitmodules
+!.gitignore
