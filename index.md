@@ -1,4 +1,4 @@
-## SUKUYA's BLOG
+### SUKUYA's BLOG
 
-* [Games](game/index.html)
-* [Photoblog](photoblog/index.html) Pictures, Poetry, Culinary Experiments.
+#### [Machine Learning](machine-learning/index.html) <-- Browse for articles on Machine Learning 
+#### [Photoblog](photoblog/index.html) <-- Browse for Pictures, Poetry, Culinary Experiments.
