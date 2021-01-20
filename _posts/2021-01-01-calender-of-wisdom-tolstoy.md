@@ -2,7 +2,12 @@
 This year to inculcate a sense of regularity, I am setting up a simple goal to read one page from Tolstoy's `Calendar of Wisdom` every day and as suggested by `Tolstoy`, I will translate them in Hindi in my own words rather than finding the original source and quoting them verbatim. This collection by Tolstoy was translated by `Peter Sekerin`. Tolstoy says, "*To create a book for the masses, for millions of people ... is incomparably more important and fruitful than to compose a novel of the kind which diverts some members of the wealthy classes for a short time, and then is forever forgotten. The region of this art of the simplest, most widely accessible feeling is enormous, and it is as yet almost untouched.*" This collection was the effort by `Tolstoy` in that direction. And as `Tolstoy` puts it, let's communicate with the wisest people who ever lived on Earth. 
 
 इस साल अपने जीवन में थोड़ी सी नियमितता लाने के लिए मैं हर दिन `टॉल्सटॉय` के - `कैलेंडर ऑफ विजडम` - का एक पृष्ठ पढ़ूँगा और जैसा कि `टॉल्स्टॉय` द्वारा सुझाया गया है, मैं मूल स्रोत खोजने के बजाय उनका अपने शब्दों में हिंदी में अनुवाद करूंगा। टॉल्स्टॉय के इस संग्रह का अनुवाद `पीटर सेकेरिन` ने किया था। टॉल्स्टॉय कहते हैं, "*लाखों लोगों के लिए एक पुस्तक लिखना  ... उस तरह के एक उपन्यास की रचना करने की तुलना में अतुलनीय रूप से अधिक महत्वपूर्ण और फलदायी है जो थोड़े समय के लिए धनी वर्गों के कुछ सदस्यों को संबोधित करती है, और फिर हमेशा के लिए भुला दी जाती है। सबसे सरल, सबसे व्यापक रूप से सुलभ भावना की इस कला का क्षेत्र बहुत बड़ा है, और यह अभी तक लगभग अछूता है।*" यह संग्रह `टॉलस्टॉय` द्वारा उस दिशा में किया गया प्रयास था। और जैसा कि `टॉल्सटॉय` कहते हैं, आइए धरती पे रहे इन सबसे बुद्धिमान लोगों के साथ संवाद करें। 
-
+#### 20th January
+जीवन और मृत्यु दो सीमाएँ हैं तथा दोनों के पीछे कुछ एक सा छुपा है। अगर तुम मृत्यु पश्चात कहीं जाने की सोच रहे हो तो ये भी सोचो की तुम कहीं से आए हो। इसी कारण, इंसान को मृत्यु पश्चात की नहीं परंतु अभी जीवन को ढंग से जीने के बारे में सोचना चाहिए। 
+#### 19th January
+सामाजिक और नीजि जीवन में आत्मा के उत्थान का एक ही तरीक़ा है और वह है, त्याग।
+#### 18th January
+जीवन कैसे जीया जाए, ही वास्तविक विज्ञान है। और ये ज्ञान सब के लिए उपलब्ध है। अधिकतर लोग प्रायः इस ज्ञान को नज़रंदाज कर दिशा विहीन जीवन व्यतीत करते हैं। 
 #### 17th January
 जल ख़ाली पात्र में भरे पात्र से मात्र जुड़ने से जिस प्रकार प्रवाहित हो जाता है उस प्रकार बुधिमता बुधिमान मनुष्य के मात्र सम्पर्क में आने से नहीं आती, उसके लिए स्वतंत्र गम्भीर प्रयास की आवश्यकता होती है। स्वयं की आत्मा को सुधारो, और विश्वास रखो कि ऐसा  करने से ही तुम समाज़ को सुधारने में अपना सहयोग दे रहो हो।
 #### 16th January
