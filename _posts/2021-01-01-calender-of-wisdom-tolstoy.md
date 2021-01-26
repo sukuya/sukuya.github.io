@@ -2,6 +2,19 @@
 This year to inculcate a sense of regularity, I am setting up a simple goal to read one page from Tolstoy's `Calendar of Wisdom` every day and as suggested by `Tolstoy`, I will translate them in Hindi in my own words rather than finding the original source and quoting them verbatim. This collection by Tolstoy was translated by `Peter Sekerin`. Tolstoy says, "*To create a book for the masses, for millions of people ... is incomparably more important and fruitful than to compose a novel of the kind which diverts some members of the wealthy classes for a short time, and then is forever forgotten. The region of this art of the simplest, most widely accessible feeling is enormous, and it is as yet almost untouched.*" This collection was the effort by `Tolstoy` in that direction. And as `Tolstoy` puts it, let's communicate with the wisest people who ever lived on Earth. 
 
 इस साल अपने जीवन में थोड़ी सी नियमितता लाने के लिए मैं हर दिन `टॉल्सटॉय` के - `कैलेंडर ऑफ विजडम` - का एक पृष्ठ पढ़ूँगा और जैसा कि `टॉल्स्टॉय` द्वारा सुझाया गया है, मैं मूल स्रोत खोजने के बजाय उनका अपने शब्दों में हिंदी में अनुवाद करूंगा। टॉल्स्टॉय के इस संग्रह का अनुवाद `पीटर सेकेरिन` ने किया था। टॉल्स्टॉय कहते हैं, "*लाखों लोगों के लिए एक पुस्तक लिखना  ... उस तरह के एक उपन्यास की रचना करने की तुलना में अतुलनीय रूप से अधिक महत्वपूर्ण और फलदायी है जो थोड़े समय के लिए धनी वर्गों के कुछ सदस्यों को संबोधित करती है, और फिर हमेशा के लिए भुला दी जाती है। सबसे सरल, सबसे व्यापक रूप से सुलभ भावना की इस कला का क्षेत्र बहुत बड़ा है, और यह अभी तक लगभग अछूता है।*" यह संग्रह `टॉलस्टॉय` द्वारा उस दिशा में किया गया प्रयास था। और जैसा कि `टॉल्सटॉय` कहते हैं, आइए धरती पे रहे इन सबसे बुद्धिमान लोगों के साथ संवाद करें। 
+
+#### 26th January
+एक अमीर मनुष्य दयावान नहीं हो सकता, क्यूँकि हर कोई जो मदद माँगे अगर उसकी मदद की जाए तो अमीर ज़्यादा देर तक अमीर नहीं रह सकता। किसी से धन लूटके किसी और को देकर दयावान बनना अमीर मनुष्य की क्रूरता कहलाती है।
+#### 25th January
+बेमतलब के ज़्यादा विज्ञान को सीखने के बजाय कुछ मूलभूत जीवन के नियमों का जानना ज़रूरी है। ये नियम तुम्हें सही और ग़लत में फर्क करना सीखाते हैं, जहाँकि बेमतलब का ज्ञान तुममें घमंड उत्पन्न कर जीवन की मूल समझ ग्रहण करना मुश्किल करता है। 
+#### 24th January
+तुम्हारे कर्म तुम्हारे आस पास के लोगों की इच्छा अनुसार नहीं बल्कि सम्पूर्ण मानवता की ज़रूरतों के हिसाब से निर्धारित होने चाहिए। 
+#### 23rd January
+तुम्हारा क्रोध किसी भी कारण से उचित नहीं ठहराया जा सकता, उसका कारण हमेशा तुम्हारे अंदर ही विध्यमान है। 
+#### 22nd January
+किसी की हत्या किसी भी परिस्थिति में जायज़ नहीं ठहरायी जा सकती। इससे गिंहोना कोई और अपराध नहीं है। 
+#### 21st January
+अपनी ग़लतियों से सीखो, उनकी समझ से अधिक ज्ञान कुछ और नहीं दे सकता। 
 #### 20th January
 जीवन और मृत्यु दो सीमाएँ हैं तथा दोनों के पीछे कुछ एक सा छुपा है। अगर तुम मृत्यु पश्चात कहीं जाने की सोच रहे हो तो ये भी सोचो की तुम कहीं से आए हो। इसी कारण, इंसान को मृत्यु पश्चात की नहीं परंतु अभी जीवन को ढंग से जीने के बारे में सोचना चाहिए। 
 #### 19th January
