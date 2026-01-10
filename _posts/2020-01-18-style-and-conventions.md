@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Style Guidelines and Conventions"
+date: 2020-01-18
+---
+
 #### STYLE GUIDELINES AND CONVENTIONS FOLLOWED
 ##### JEKYLL
 Jekyll requires blog post files to be named according to the following format:

@@ -1,3 +1,9 @@
+---
+layout: distill
+title: "Calendar of Wisdom - Tolstoy"
+date: 2021-01-01
+---
+
 #### SCOPE
 This year to inculcate a sense of regularity, I am setting up a simple goal to read one page from Tolstoy's `Calendar of Wisdom` every day and as suggested by `Tolstoy`, I will translate them in Hindi in my own words rather than finding the original source and quoting them verbatim. This collection by Tolstoy was translated by `Peter Sekerin`. Tolstoy says, "*To create a book for the masses, for millions of people ... is incomparably more important and fruitful than to compose a novel of the kind which diverts some members of the wealthy classes for a short time, and then is forever forgotten. The region of this art of the simplest, most widely accessible feeling is enormous, and it is as yet almost untouched.*" This collection was the effort by `Tolstoy` in that direction. And as `Tolstoy` puts it, let's communicate with the wisest people who ever lived on Earth. 
 

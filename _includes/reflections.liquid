@@ -1,0 +1,23 @@
+<div class="col mb-4">
+  <a href="{% if photo.redirect %}{{ photo.redirect }}{% else %}{{ photo.url | relative_url }}{% endif %}">
+    <div class="card h-100 hoverable">
+      {% if photo.img %}
+      <div style="height: 240px; overflow: hidden;">
+        {%
+          include figure.liquid
+          loading="eager"
+          path=photo.img
+          sizes = "250px"
+          alt="photo thumbnail"
+          class="card-img-top"
+          style="width: 100%; height: 100%; object-fit: cover;"
+        %}
+      </div>
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ photo.title }}</h2>
+        <p class="card-text">{{ photo.description }}</p>
+      </div>
+    </div>
+  </a>
+</div>

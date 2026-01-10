@@ -1,5 +1,18 @@
-**/.DS_Store  #Apple DS Store Files
-.*
-!.gitmodules
 !.gitignore
-photoblog/img/projects/cooking/Culinary/
+!.gitmodules
+.*
+.bundle
+.DS_store
+.idea
+.jekyll-cache
+.jekyll-metadata
+.ruby-version
+.sass-cache
+.tweet-cache
+.venv
+**/.DS_Store  #Apple DS Store Files
+assets/libs/
+Gemfile.lock
+node_modules/
+photoblog/img/projects/cooking/Culinary/_site
+vendor
