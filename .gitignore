@@ -1,5 +1,6 @@
 !.gitignore
 !.gitmodules
+!.github
 .*
 .bundle
 .DS_store
@@ -12,7 +13,6 @@
 .venv
 **/.DS_Store  #Apple DS Store Files
 assets/libs/
-Gemfile.lock
 node_modules/
 photoblog/img/projects/cooking/Culinary/_site
 vendor
